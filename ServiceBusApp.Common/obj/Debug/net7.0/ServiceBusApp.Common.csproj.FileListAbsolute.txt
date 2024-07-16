@@ -1,0 +1,11 @@
+C:\Users\Tevfik\Documents\GitHub\AzureServiceBusApp\ServiceBusApp.Common\bin\Debug\net7.0\ServiceBusApp.Common.deps.json
+C:\Users\Tevfik\Documents\GitHub\AzureServiceBusApp\ServiceBusApp.Common\bin\Debug\net7.0\ServiceBusApp.Common.dll
+C:\Users\Tevfik\Documents\GitHub\AzureServiceBusApp\ServiceBusApp.Common\bin\Debug\net7.0\ServiceBusApp.Common.pdb
+C:\Users\Tevfik\Documents\GitHub\AzureServiceBusApp\ServiceBusApp.Common\obj\Debug\net7.0\ServiceBusApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tevfik\Documents\GitHub\AzureServiceBusApp\ServiceBusApp.Common\obj\Debug\net7.0\ServiceBusApp.Common.AssemblyInfoInputs.cache
+C:\Users\Tevfik\Documents\GitHub\AzureServiceBusApp\ServiceBusApp.Common\obj\Debug\net7.0\ServiceBusApp.Common.AssemblyInfo.cs
+C:\Users\Tevfik\Documents\GitHub\AzureServiceBusApp\ServiceBusApp.Common\obj\Debug\net7.0\ServiceBusApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Tevfik\Documents\GitHub\AzureServiceBusApp\ServiceBusApp.Common\obj\Debug\net7.0\ServiceBusApp.Common.dll
+C:\Users\Tevfik\Documents\GitHub\AzureServiceBusApp\ServiceBusApp.Common\obj\Debug\net7.0\refint\ServiceBusApp.Common.dll
+C:\Users\Tevfik\Documents\GitHub\AzureServiceBusApp\ServiceBusApp.Common\obj\Debug\net7.0\ServiceBusApp.Common.pdb
+C:\Users\Tevfik\Documents\GitHub\AzureServiceBusApp\ServiceBusApp.Common\obj\Debug\net7.0\ref\ServiceBusApp.Common.dll

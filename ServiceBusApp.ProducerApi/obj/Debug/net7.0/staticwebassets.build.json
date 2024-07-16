@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zAN3B0ouSZLNO85Kz//P1f70TktKhQZQpZ5Z3qTU7/c=",
+  "Source": "ServiceBusApp.ProducerApi",
+  "BasePath": "_content/ServiceBusApp.ProducerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

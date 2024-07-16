@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ServiceBusApp.ProducerApi.props" />
+</Project>

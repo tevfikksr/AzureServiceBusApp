@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tevfik\\Documents\\GitHub\\AzureServiceBusApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F943B073-F172-4050-AED7-8A517F6049F6}|ServiceBusApp.ProducerApi\\ServiceBusApp.ProducerApi.csproj|c:\\users\\tevfik\\documents\\github\\azureservicebusapp\\servicebusapp.producerapi\\controllers\\services\\azureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F943B073-F172-4050-AED7-8A517F6049F6}|ServiceBusApp.ProducerApi\\ServiceBusApp.ProducerApi.csproj|solutionrelative:servicebusapp.producerapi\\controllers\\services\\azureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F943B073-F172-4050-AED7-8A517F6049F6}|ServiceBusApp.ProducerApi\\ServiceBusApp.ProducerApi.csproj|c:\\users\\tevfik\\documents\\github\\azureservicebusapp\\servicebusapp.producerapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F943B073-F172-4050-AED7-8A517F6049F6}|ServiceBusApp.ProducerApi\\ServiceBusApp.ProducerApi.csproj|solutionrelative:servicebusapp.producerapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDCF9E4-1EDE-4406-B743-C95CAAB668BC}|ServiceBusApp.Common\\ServiceBusApp.Common.csproj|c:\\users\\tevfik\\documents\\github\\azureservicebusapp\\servicebusapp.common\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDCF9E4-1EDE-4406-B743-C95CAAB668BC}|ServiceBusApp.Common\\ServiceBusApp.Common.csproj|solutionrelative:servicebusapp.common\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6582F1CF-CFAF-4AB6-A5AD-AF3C2BEE03E9}|ServiceBusApp.Consumer\\ServiceBusApp.Consumer.csproj|c:\\users\\tevfik\\documents\\github\\azureservicebusapp\\servicebusapp.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6582F1CF-CFAF-4AB6-A5AD-AF3C2BEE03E9}|ServiceBusApp.Consumer\\ServiceBusApp.Consumer.csproj|solutionrelative:servicebusapp.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 44,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Tevfik\\Documents\\GitHub\\AzureServiceBusApp\\ServiceBusApp.Common\\Constants.cs",
+              "RelativeDocumentMoniker": "ServiceBusApp.Common\\Constants.cs",
+              "ToolTip": "C:\\Users\\Tevfik\\Documents\\GitHub\\AzureServiceBusApp\\ServiceBusApp.Common\\Constants.cs",
+              "RelativeToolTip": "ServiceBusApp.Common\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:29:30.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Tevfik\\Documents\\GitHub\\AzureServiceBusApp\\ServiceBusApp.ProducerApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ServiceBusApp.ProducerApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Tevfik\\Documents\\GitHub\\AzureServiceBusApp\\ServiceBusApp.ProducerApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ServiceBusApp.ProducerApi\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:29:03.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AzureService.cs",
+              "DocumentMoniker": "C:\\Users\\Tevfik\\Documents\\GitHub\\AzureServiceBusApp\\ServiceBusApp.ProducerApi\\Controllers\\Services\\AzureService.cs",
+              "RelativeDocumentMoniker": "ServiceBusApp.ProducerApi\\Controllers\\Services\\AzureService.cs",
+              "ToolTip": "C:\\Users\\Tevfik\\Documents\\GitHub\\AzureServiceBusApp\\ServiceBusApp.ProducerApi\\Controllers\\Services\\AzureService.cs",
+              "RelativeToolTip": "ServiceBusApp.ProducerApi\\Controllers\\Services\\AzureService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:24:45.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tevfik\\Documents\\GitHub\\AzureServiceBusApp\\ServiceBusApp.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceBusApp.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\Tevfik\\Documents\\GitHub\\AzureServiceBusApp\\ServiceBusApp.Consumer\\Program.cs",
+              "RelativeToolTip": "ServiceBusApp.Consumer\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:30:11.163Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 16,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
